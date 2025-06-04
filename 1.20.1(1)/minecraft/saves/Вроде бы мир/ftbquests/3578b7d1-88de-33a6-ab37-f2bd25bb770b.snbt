@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3578b7d188de33a6ab37f2bd25bb770b"
+	name: "kismaaa#3578b7d1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

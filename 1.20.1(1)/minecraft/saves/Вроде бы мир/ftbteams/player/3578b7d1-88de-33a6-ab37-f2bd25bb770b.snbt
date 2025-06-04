@@ -1,0 +1,17 @@
+{
+	id: "3578b7d1-88de-33a6-ab37-f2bd25bb770b"
+	type: "player"
+	player_name: "kismaaa"
+	ranks: {
+		3578b7d1-88de-33a6-ab37-f2bd25bb770b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "kismaaa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59BCFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "d7ba0f92-bab9-3678-8e7a-f8b5e7b4d654"
+	type: "player"
+	player_name: "Liskanyme3"
+	ranks: {
+		d7ba0f92-bab9-3678-8e7a-f8b5e7b4d654: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Liskanyme3"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

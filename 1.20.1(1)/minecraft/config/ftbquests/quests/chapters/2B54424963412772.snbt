@@ -1,0 +1,94 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2B54424963412772"
+	group: ""
+	icon: "minecraft:grass_block"
+	id: "2B54424963412772"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["Хмм... Может, пригодится?"]
+		icon: "create:honeyed_apple"
+		id: "0AC42098F6C32BC5"
+		rewards: [
+			{
+				id: "3154619DCDA81511"
+				item: {
+					Count: 1
+					id: "minecraft:bundle"
+					tag: {
+						Items: [
+							{
+								Count: 4
+								id: "minecraft:amethyst_shard"
+							}
+							{
+								Count: 32
+								id: "minecraft:string"
+							}
+							{
+								Count: 3
+								id: "minecraft:sweet_berries"
+							}
+							{
+								Count: 4
+								id: "minecraft:bamboo"
+							}
+							{
+								Count: 1
+								id: "minecraft:spruce_sapling"
+							}
+							{
+								Count: 1
+								id: "minecraft:cherry_sapling"
+							}
+							{
+								Count: 1
+								id: "minecraft:mangrove_propagule"
+							}
+							{
+								Count: 1
+								id: "minecraft:acacia_sapling"
+							}
+						]
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "4E3396F42F4CAA1B"
+				item: "iwannaskate:skating_manual"
+				type: "item"
+			}
+			{
+				id: "4393BE76A277C3C6"
+				item: "botania:lexicon"
+				type: "item"
+			}
+			{
+				id: "71177BF00F3D779F"
+				item: "enigmaticlegacy:the_acknowledgment"
+				type: "item"
+			}
+			{
+				id: "149BC725CB447BA9"
+				item: {
+					Count: 1
+					id: "enigmaticlegacy:enigmatic_eye"
+					tag: { }
+				}
+				type: "item"
+			}
+		]
+		subtitle: "Найден прямо в руках (или под ногами.)"
+		tasks: [{
+			id: "2A65543735169F9A"
+			type: "checkmark"
+		}]
+		title: "Коллекционный мешочек"
+		x: -12.0d
+		y: -9.5d
+	}]
+	title: "Стартик"
+}
