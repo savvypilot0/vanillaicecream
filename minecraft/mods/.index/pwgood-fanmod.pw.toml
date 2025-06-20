@@ -1,0 +1,16 @@
+filename = 'pwmod-1.4.1-forge-1.20.1.jar'
+name = 'PWMod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8b0e5baebc18d8756e330af700e0c98d4bee0fb1728d68e57203f71eb88c3e63b658c1897dd458317d7f2fe2d01998ff30a5d254085bb8d3ee078b2afde8ea8c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Rp2mDwJm/versions/nBUxwOTV/pwmod-1.4.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Rp2mDwJm'
+version = 'nBUxwOTV'

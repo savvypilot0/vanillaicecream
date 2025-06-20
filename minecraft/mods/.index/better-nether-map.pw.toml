@@ -1,0 +1,16 @@
+filename = 'betternethermap-1.2-1.20.1.jar'
+name = 'Better Nether Map'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd6700881f050c72bc7e2b15f01be28e7acd48b4ae051d4077bee30825a054f86e991539f8ea7acb6a7d35d1e4c0f02724fb4517b8b474af0ed1e666ada40a7e0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fdtm99de/versions/ZItltU1C/betternethermap-1.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'fdtm99de'
+version = 'ZItltU1C'

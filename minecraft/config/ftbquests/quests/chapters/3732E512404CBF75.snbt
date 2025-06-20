@@ -1,0 +1,117 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3732E512404CBF75"
+	group: ""
+	id: "3732E512404CBF75"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		description: ["Найдено прямо под ногами. В книгах полезная инормация, а мешочек... Видимо, коллекционный. Буквально небольшая коллекция всякой всячины."]
+		icon: "minecraft:grass_block"
+		id: "211381C4694247A9"
+		rewards: [
+			{
+				id: "69EA5FE004DEDA71"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "hexcasting:thehexbook"
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "446A2BB1D87483FB"
+				item: "iwannaskate:skating_manual"
+				type: "item"
+			}
+			{
+				id: "193721B4D413A6F0"
+				item: "botania:lexicon"
+				type: "item"
+			}
+			{
+				id: "19119D20061C3F7D"
+				item: "enigmaticlegacy:the_acknowledgment"
+				type: "item"
+			}
+			{
+				id: "29D9424B724F58CE"
+				item: {
+					Count: 1
+					id: "enigmaticlegacy:enigmatic_eye"
+					tag: { }
+				}
+				type: "item"
+			}
+			{
+				id: "36F1CD5DEDA9664E"
+				item: {
+					Count: 1
+					id: "minecraft:bundle"
+					tag: {
+						Items: [
+							{
+								Count: 32
+								id: "minecraft:string"
+							}
+							{
+								Count: 1
+								id: "botania:white_double_flower"
+							}
+							{
+								Count: 4
+								id: "minecraft:amethyst_shard"
+							}
+							{
+								Count: 2
+								id: "minecraft:sugar_cane"
+							}
+							{
+								Count: 2
+								id: "minecraft:kelp"
+							}
+							{
+								Count: 3
+								id: "minecraft:sweet_berries"
+							}
+							{
+								Count: 3
+								id: "minecraft:bamboo"
+							}
+							{
+								Count: 1
+								id: "minecraft:spruce_sapling"
+							}
+							{
+								Count: 1
+								id: "minecraft:cherry_sapling"
+							}
+							{
+								Count: 1
+								id: "minecraft:mangrove_propagule"
+							}
+							{
+								Count: 1
+								id: "minecraft:acacia_sapling"
+							}
+						]
+					}
+				}
+				type: "item"
+			}
+		]
+		shape: "gear"
+		subtitle: "Может... Пригодится?"
+		tasks: [{
+			id: "7477B7427AEAE337"
+			type: "checkmark"
+		}]
+		title: "Мешочек и список литературы."
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Старт"
+}

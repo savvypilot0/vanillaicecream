@@ -1,0 +1,16 @@
+filename = 'kleiders_custom_renderer-7.4.1-forge-1.20.1.jar'
+name = 'Kleiders Custom Renderer'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9f0f94ed3dd661b542e92d10aa40c8426117b36c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6475112
+project-id = 682065

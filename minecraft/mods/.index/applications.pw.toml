@@ -1,0 +1,16 @@
+filename = "[NeoLexForge 1.20.1]MomentariyModder'Applications[5.5.0].jar"
+name = "MomentariyModder' Applications"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0b39349a279e2b4641080b2466b53d7bf742094c4841f9b8ffdc8af4a6ea2d63164557a7275e4beba3bd5f65312190f3cd17bd02cc9a9598ae3cce4c56d5f739'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7nX5EvcX/versions/KnZzeTcv/%5BNeoLexForge 1.20.1%5DMomentariyModder%27Applications%5B5.5.0%5D.jar'
+
+[update.modrinth]
+mod-id = '7nX5EvcX'
+version = 'KnZzeTcv'

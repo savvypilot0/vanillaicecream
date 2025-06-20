@@ -1,0 +1,16 @@
+filename = 'elretrievetoslot-1.1.0.jar'
+name = 'EL Addon Retrieve To Slot'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '43f4b40d801aff179cb909f8a9bb72a6fa4bb194e8ae3920d6ee2f3f4585537df75bcadb815fc2daa45bd8db4b94201d8103bdeff010eb9dd7a4cc41e946683d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3WOKbBk7/versions/IoimMgzQ/elretrievetoslot-1.1.0.jar'
+
+[update.modrinth]
+mod-id = '3WOKbBk7'
+version = 'IoimMgzQ'

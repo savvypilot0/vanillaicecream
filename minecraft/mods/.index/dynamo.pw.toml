@@ -1,0 +1,16 @@
+filename = 'dynamo-1.20.1-1.0.1.jar'
+name = 'Dynamo'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e9c6dcc9e84ab31c3728ceecf3af68367f671925'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5013034
+project-id = 790312
