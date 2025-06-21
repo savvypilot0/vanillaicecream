@@ -6,7 +6,12 @@
       "block": [
         "minecraft:gold_ore",
         "minecraft:deepslate_gold_ore",
-        "minecraft:nether_gold_ore"
+        "minecraft:nether_gold_ore",
+        "spelunkery:andesite_gold_ore",
+        "spelunkery:diorite_gold_ore",
+        "spelunkery:granite_gold_ore",
+        "spelunkery:tuff_gold_ore",
+        "mythicbotany:gold_ore"
       ],
       "particle": {
         "type": "visuality:sparkle",
@@ -20,7 +25,13 @@
     {
       "block": [
         "minecraft:diamond_ore",
-        "minecraft:deepslate_diamond_ore"
+        "minecraft:deepslate_diamond_ore",
+        "spelunkery:andesite_diamond_ore",
+        "spelunkery:diorite_diamond_ore",
+        "spelunkery:granite_diamond_ore",
+        "spelunkery:tuff_diamond_ore",
+        "spelunkery:smooth_basalt_diamond_ore",
+        "mythicbotany:dragonstone_ore"
       ],
       "particle": {
         "type": "visuality:sparkle",
@@ -34,7 +45,13 @@
     {
       "block": [
         "minecraft:emerald_ore",
-        "minecraft:deepslate_emerald_ore"
+        "minecraft:deepslate_emerald_ore",
+        "spelunkery:andesite_emerald_ore",
+        "spelunkery:diorite_emerald_ore",
+        "spelunkery:granite_emerald_ore",
+        "spelunkery:tuff_emerald_ore",
+        "create_unbreakable:luminarchy_block",
+        "<block:create_unbreakable:philolite_block>"
       ],
       "particle": {
         "type": "visuality:sparkle",
@@ -60,6 +77,11 @@
       "block": [
         "minecraft:soul_sand",
         "minecraft:soul_soil"
+        "netherexp:soul_magma_block",
+        "excessive_building:soul_magma_block",
+        "netherexp:ecto_soul_sand",
+        "netherexp:soul_path",
+        "netherexp:suspicious_soul_sand"
       ],
       "direction": "up",
       "particle": {

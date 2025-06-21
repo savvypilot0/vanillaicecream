@@ -1,0 +1,16 @@
+filename = 'improvedtrident-forge-1.20.[0-4]-v2.1.jar'
+name = 'Improved Trident'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '99c1e274765f077e0ecbc5882af6a5af4cd489e8a2e3f7cfd5481b240466e2fc006ef1ec325d3a5965e5c2cf77005a66ba851ff6c47c240351c6a512583391cc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rJA65pFi/versions/sbLMfcpK/improvedtrident-forge-1.20.%5B0-4%5D-v2.1.jar'
+
+[update.modrinth]
+mod-id = 'rJA65pFi'
+version = 'sbLMfcpK'

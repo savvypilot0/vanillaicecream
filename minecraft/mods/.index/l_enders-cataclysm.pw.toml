@@ -1,4 +1,4 @@
-filename = 'L_Enders_Cataclysm-3.00.jar'
+filename = 'L_Enders_Cataclysm-3.01.jar'
 name = 'cataclysm'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '702c6f7ff34daf8ec227a3a487351b84a8136ade4514ec12aefe375c2e6c74c721db3d0a5aa13fb8ad32954fd9b2ab2286be9918cbba1a71d2779b614f29d420'
+hash = '2b22f0d40255908fb4d830ba797d52a127145a891a84be8acaf38db7a8140cf95e10d425c14eda0e391b1c9a9f8cc6e06e7649abe337dde891af157a57af32bf'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/46KJle7n/versions/WsJV55ID/L_Enders_Cataclysm-3.00.jar'
+url = 'https://cdn.modrinth.com/data/46KJle7n/versions/Ryoqx7y7/L_Enders_Cataclysm-3.01.jar'
 
 [update.modrinth]
 mod-id = '46KJle7n'
-version = 'WsJV55ID'
+version = 'Ryoqx7y7'
