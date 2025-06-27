@@ -6,11 +6,6 @@
       "block": [
         "minecraft:soul_sand",
         "minecraft:soul_soil"
-        "netherexp:soul_magma_block",
-        "excessive_building:soul_magma_block",
-        "netherexp:ecto_soul_sand",
-        "netherexp:soul_path",
-        "netherexp:suspicious_soul_sand"
       ],
       "particle": {
         "type": "visuality:soul"

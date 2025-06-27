@@ -1,6 +1,6 @@
 # Configuration File
 
-@CONFIG_VERSION: 1.2.3.2
+@CONFIG_VERSION: 1.2.4
 
 ##########################################################################################################
 # Accessibility Options
@@ -464,11 +464,14 @@
     # The Max Level of stored experience of Scroll of Ignorance Curse, which provides attribute amplification. [range: 0 ~ 1000, default: 1000, synchronized: yes]
     I:ScrollofIgnoranceCurseXPLevelUpperLimit=1000
 
-    # The damage resistance multiplier of the bypass-armor damage you received. Measured in percentage. [range: 0 ~ 80, default: 64, synchronized: yes]
-    I:SoulLanternofIllusionBypassDamageResistance=64
+    # The damage resistance multiplier of the bypass-armor damage you received. Measured in percentage. [range: 0 ~ 80, default: 50, synchronized: yes]
+    I:SoulLanternofIllusionBypassDamageResistance=50
 
     # Active ability cooldown for Soul Lantern of Illusion. Measured in ticks. 20 ticks equal to 1 second. [range: 0 ~ 32768, default: 0, synchronized: yes]
     I:SoulLanternofIllusionCooldown=0
+
+    # The cooldown of soul fireball generating for Soul Lantern of Illusion. Measured in ticks. [range: 0 ~ 32768, default: 60, synchronized: yes]
+    I:SoulLanternofIllusionFireballCooldown=60
 
     # The damage multiplier of the non-magic damage you received. Measured in percentage. [range: 0 ~ 32768, default: 25, synchronized: yes]
     I:SoulLanternofIllusionNonMagicDamageMultiplier=25
@@ -528,8 +531,8 @@
     # If true, the main creative tab of Enigmatic Legacy will display some uncompleted item. [default: false, synchronized: no]
     B:FutureItemDisplay=false
 
-    # If true, the Hidden Recipe will display in JEI. [default: false, synchronized: no]
-    B:HiddenRecipeJEIDisplay=false
+    # If true, the Hidden Recipe will display in JEI. [default: true, synchronized: no]
+    B:HiddenRecipeJEIDisplay=true
 
     # If true, the main creative tab of Enigmatic Legacy will be resorted. [default: true, synchronized: no]
     B:TabResorted=true

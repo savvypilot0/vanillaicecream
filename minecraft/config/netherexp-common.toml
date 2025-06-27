@@ -135,7 +135,7 @@
 	#Increases the size of all nether biomes, great for experiencing the new biome overhauls 
 	#WARNING: this setting has to be enabled before you generate a new world 
 	#once enabled in a world it cannot be disabled without deleting DIM-1 in the world folder
-	larger_nether_biomes = false
+	larger_nether_biomes = true
 	#Defines if Immunity Effect duration reduction is scaled by the incoming effect amplifier
 	amplifier_immunity_reduction = true
 	#Ectoplasm will rust all nearby plated netherite blocks it comes in contact with

@@ -1,4 +1,4 @@
-filename = 'vanillabackport-forge-1.20.1-1.1.4.jar'
+filename = 'vanillabackport-forge-1.20.1-1.1.4.2.jar'
 name = 'VanillaBackport'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'f279bd9583b111f56fb99659726425c621ead1062221478c1cda2550fd47bd331e9dd5f4707d9e47b8eb011ac849e7eb6fb67f13404b1aeea725a0768b9e03b8'
+hash = '9be014c1be71d9c35306e3cdbe6c572be8fd6263733bdfd09a69b8c8bd3601da0569251c6d050c3e37d54097273caaf91ec103dc8c4bb94e1763ba12c92cfd6d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/6xwxDTgf/versions/EvUO8nb4/vanillabackport-forge-1.20.1-1.1.4.jar'
+url = 'https://cdn.modrinth.com/data/6xwxDTgf/versions/HQR4iEpd/vanillabackport-forge-1.20.1-1.1.4.2.jar'
 
 [update.modrinth]
 mod-id = '6xwxDTgf'
-version = 'EvUO8nb4'
+version = 'HQR4iEpd'

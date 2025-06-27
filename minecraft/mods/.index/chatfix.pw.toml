@@ -1,0 +1,16 @@
+filename = 'chatfix-1.0.0-forge-1.20.1.jar'
+name = 'chatfix'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd927fb115e17cc0d50abc5e66e6ae2a8d335d9e3252c76ccd156d6701e73b0c35d123a14e31d8e272ed142b34388fcdf026fc6425ee7b7b1a094c8b0b460b769'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hwtASkYD/versions/kUI5jBdF/chatfix-1.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'hwtASkYD'
+version = 'kUI5jBdF'

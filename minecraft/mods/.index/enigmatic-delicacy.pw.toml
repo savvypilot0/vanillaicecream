@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '566eb3c8d22e69d4520a90289a7619fc0f4d2a0a'
+hash = '20cc2893c8cb98a37c3745ec7724c1fd73abb409'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6398219
+file-id = 6681846
 project-id = 1115663

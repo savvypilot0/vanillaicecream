@@ -1,4 +1,4 @@
-filename = 'create_mobile_packages-1.20.1-0.5.3.jar'
+filename = 'create_mobile_packages-1.20.1-0.5.4-4.jar'
 name = 'Create: Mobile Packages'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '58ce66b95073f0796530b60b3edfe855e4dc992fd6e30498154b8be9c79116b949e15a8e4a85c1982ea2075f7a4c92f68711be5d32ad3c384f506e42a1ad04fd'
+hash = '8375c507b0da20f12720cd17be08edcfe8488a5f18c48aef4714d45e251f07af1bfff3d8ece86f48c41823aec3c962ecafc8b7940ed9bebec40f10fe698b9144'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/1vXRfEHZ/versions/sPUE6s5X/create_mobile_packages-1.20.1-0.5.3.jar'
+url = 'https://cdn.modrinth.com/data/1vXRfEHZ/versions/TbRbq1Q8/create_mobile_packages-1.20.1-0.5.4-4.jar'
 
 [update.modrinth]
 mod-id = '1vXRfEHZ'
-version = 'sPUE6s5X'
+version = 'TbRbq1Q8'
